@@ -2,7 +2,7 @@
 // function add(a:number,b:number):number{
 //   return a+b
 // }
-const add = (a:number = 10,b?:number):number => a+b
+// const add = (a:number = 10,b?:number):number => a+b
 
 // 2.参数是一个对象如何定义
 interface User {
