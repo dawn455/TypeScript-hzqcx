@@ -1,0 +1,23 @@
+{
+  "name": "TypeScript-hzqcx",
+  "version": "1.0.0",
+  "description": "TS是JS的超集，所以JS基础的类型都包含在内",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dawn455/TypeScript-hzqcx.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dawn455/TypeScript-hzqcx/issues"
+  },
+  "homepage": "https://github.com/dawn455/TypeScript-hzqcx#readme",
+  "devDependencies": {
+    "@types/node": "^18.15.0"
+  }
+}

@@ -28,3 +28,6 @@ function myFn():void {
   return 
   // 不能有返回值
 }
+
+let a:number = 11
+console.log(a);
