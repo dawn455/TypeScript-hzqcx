@@ -83,7 +83,7 @@
 //   el:'#app'
 // })
 
-// 5.get set
+// 5.get set 类似Object.defineProperty()
 class Ref{
   _value:any
   constructor(value:any){
